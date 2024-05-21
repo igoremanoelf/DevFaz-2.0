@@ -99,7 +99,7 @@ h1 {
     margin: auto;
 }
 #trafego {
-    background-image: url("Imagem/tráfego.jpeg");
+    background-image: url("./Imagem/tráfego.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 200px;
